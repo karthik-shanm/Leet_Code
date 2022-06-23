@@ -19,3 +19,6 @@ class Solution:
             return final_val
         else:
             return 0
+
+obj=Solution()
+print(obj.reverse(100))
